@@ -1,4 +1,4 @@
-# ACPSM-BP
+# ACPSM-BNNM
 Adaptive Closed Polyline Searching Method-BP
 
 In folder 1-ACPSM:
@@ -12,7 +12,7 @@ Mod09Adjust1Point: Adjust the position of vertices along with adjusting the posi
 Mod061SegmentExpression: Projection step
 FrmPC: main function
 
-In folder 2-BP:
+In folder 2-BNNM:
 PublicVaribles: Define variables
 WriteT: Save data
 FrmBP2C:  main function
