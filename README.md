@@ -1,4 +1,4 @@
-# ACPSM
+# ACPSM-BP
 Adaptive Closed Polyline Searching Method-BP
 
 In folder 1-ACPSM:
