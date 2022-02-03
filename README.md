@@ -1,5 +1,5 @@
 # ACPSM
-Adaptive Closed Polyline Searching Method
+Adaptive Closed Polyline Searching Method-BP
 
 In folder 1-ACPSM:
 Mod01PublicVariable: Define variables
